@@ -1,3 +1,16 @@
-## Hi there 👋
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzVzb3EzMGp5c2xyZDc4cGw3dWRhd2wyZWJxcnZxbmh6ODB5bHQ2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8B2mz282G937cJbfBd/giphy.gif" width="1600">
 
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+# Hello! My name is Yuri Apenchenko
+
+I'm a **game designer** and **Programmer**, using Unity, Unreal Engine, C# and starting on C++
+
+\n Here are some of my projects!
+
+```
+struct skillset{
+  Language CSharp;
+  Language CPP;
+  Engine Unity;
+  Engine UnrealEngine;
+};
+```
